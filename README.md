@@ -62,3 +62,10 @@ This repository contains all tasks completed for the Oracle Pluggable Database A
 
 ## Integrity Statement
 I declare that all work presented in this repository is my own. Any assistance received has been acknowledged. All screenshots and evidence represent actual work performed in my Oracle environment.
+
+✔ Repository is PUBLIC
+✔ README is complete
+✔ screenshots folder exists
+✔ All screenshots are visible
+✔ PDB name is correct: ha_pdb_27654
+✔ Username correct: happy_plsqlauca_27654
